@@ -1,0 +1,6 @@
+{
+  "name": "ToolVerse",
+  "description": "An all-in-one suite of professional online tools, featuring PDF-to-Word, image converters, visual chroma key background removers, QR generators, custom color palette systems, formatters, and a server-side Gemini AI prompt engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
